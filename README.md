@@ -7,7 +7,10 @@ Automatizando algumas tarefas
 
 Aqui se concentra alguns scripts para Debian, Ubuntu, Linux Mint entre outros. Você saberá o que cada script faz pelo seu próprio nome.
 
-Ativando os script em linux, exemplo:
+Ativando os script em linux.
+
+Exemplo:
+
     chmod a+x nome_arquivo.sh
 
 Exemplo:
